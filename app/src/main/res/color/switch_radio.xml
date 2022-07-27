@@ -4,5 +4,7 @@
     >
 <item android:color="@android:color/white" android:state_checked="false"/>
     <item android:color="#FF7000" android:state_checked="true"/>
-    <table> data </table>
+    <table> data
+        <tr> </tr>
+    </table>
 </selector>
